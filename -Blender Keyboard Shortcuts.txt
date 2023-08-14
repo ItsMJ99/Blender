@@ -1,0 +1,31 @@
+middle mouse button - move
+
+G - Move
+R- Rotate
+S - Scale
+
+H - Hide
+alt+H - UnHide
+E - Extruding (kind of forms a line structure around blueprint)
+ctrl+r - to add more points in plane polygon
+shift + vertexs - to select multiple vertexes and then can merge
+ctrl + vertexes + s - connects middle lines of mesh.
+alt+s - to move mesh up down
+
+1 - -Y Viewpoart
+CTRL+1 - Y Viewpoart
+3 - X Viewpoart
+ctrl+3 - -X Viewpoart
+
+7 - Z Viewpoart
+ctrl+7 - -Z Viewpoart
+
+TAB - Edit Mode On/Off
+SHIFT + A - Shapes Menu (when in Edit Mode)
+SHIFT + A - Full Menu (when not in Edit Mode)
+
+SHIFT + Z - wireframe/solid mode
+
+NUM 5 - Ortho Mode
+
+k - knife tool
