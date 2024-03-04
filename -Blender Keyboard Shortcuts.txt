@@ -4,6 +4,9 @@ G - Move
 R- Rotate
 S - Scale
 
+SHIFT + Click on a location - change the spawn point of new objects.
+SHIFT + C - Resets the spawn point of new objects to center.
+
 H - Hide
 alt+H - UnHide
 E - Extruding (kind of forms a line structure around blueprint)
@@ -23,9 +26,16 @@ ctrl+7 - -Z Viewpoart
 TAB - Edit Mode On/Off
 SHIFT + A - Shapes Menu (when in Edit Mode)
 SHIFT + A - Full Menu (when not in Edit Mode)
+ALT + Edge click - selects the entire row/column of edge.
+ALT + Vertex click - selects the entire row/column of vertex.
+ALT + Face click - selects the entire row/column of faces depending on the area in face where we click.
+SHIFT + ALT - to select multiple rows and columns.
+Vertexes Selected + F - to add in new face.
+Select Edge + CTRL + DEL - to delete edge.
 
 SHIFT + Z - wireframe/solid mode
 
 NUM 5 - Ortho Mode
 
 k - knife tool
+
