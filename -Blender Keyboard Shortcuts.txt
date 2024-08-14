@@ -3,9 +3,13 @@ middle mouse button - move
 G - Move
 R- Rotate
 S - Scale
+E - Extrude
+K - knife tool
+K + CTRL - snap to middle part of edge.
 
 SHIFT + Click on a location - change the spawn point of new objects.
 SHIFT + C - Resets the spawn point of new objects to center.
+SHIFT + D - Duplicate Object.
 
 H - Hide
 alt+H - UnHide
@@ -23,6 +27,15 @@ ctrl+3 - -X Viewpoart
 7 - Z Viewpoart
 ctrl+7 - -Z Viewpoart
 
+Alt + D - Create a mirror Obejcet.
+
+I - insert face.
+CTRL + B - smooth the edges of object, bevel.
+
+CTRL + I - for inward the selection.
+A - select All.
+C - Circle Selection.
+
 TAB - Edit Mode On/Off
 SHIFT + A - Shapes Menu (when in Edit Mode)
 SHIFT + A - Full Menu (when not in Edit Mode)
@@ -32,10 +45,21 @@ ALT + Face click - selects the entire row/column of faces depending on the area 
 SHIFT + ALT - to select multiple rows and columns.
 Vertexes Selected + F - to add in new face.
 Select Edge + CTRL + DEL - to delete edge.
+CTRL + SHIFT + B = bevel vertices, it creates a curve.
+Scroll UP/DOWN - increase/reduce bevel points
+SHIFT + N - to match the object to other objects normal.
 
 SHIFT + Z - wireframe/solid mode
 
 NUM 5 - Ortho Mode
 
 k - knife tool
+
+i - insert new key frame.
+
+n - opens sidebar
+
+G - used to move camera freely.
+G + Z + Z - to zoom in/out the camera.
+
 
